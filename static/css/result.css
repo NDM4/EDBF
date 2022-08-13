@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #0d1321;
+	background-size: cover;
+	font-family: sans-serif; 
+	height: 100vh;
+}
+
+.login-box textarea {
+	white-space: pre;
+	resize: none;
+	border-radius: 4px;
+	border: 1px solid #00ba78;
+	background: transparent;
+	color: #fff;
+	width: 100%;
+	height: 215px;
+}
+
+.login-box {
+	width: 350px;
+	height: auto;
+	background: #0f172a;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 50px 30px;
+	border-radius: 8px;
+	margin: auto;
+	box-shadow: 0px 3px 5px #000;
+}
+
+
+.login-box h1 {
+	margin: 0;
+	padding: 0 0 40px;
+	text-align: center;
+	font-size: 26px;
+}
+
+.login-box label {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	display: block;
+}
+
+
+
+
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */

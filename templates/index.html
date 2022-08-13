@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>EDBF</title>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/index.css') }}">
+	</head>
+	<body>
+
+		<div class="login-box">
+			<h1>Email Data Breach Finder</h1>
+			<p style="color:red;">{{ message }}</p>
+			<form method="POST">
+				<!-- USERNAME -->
+				<label class="username-input" for="username">Email</label>
+				<input type="text" name="username" placeholder="Enter email">
+
+				<label class="key-input" for="key">API</label>
+				<select name="key">
+					<option style="color:#282827" value="value1" selected>MYRZ.ORG KEY #1</option>
+				</select>
+				<br>
+				<br>
+
+				<input class="btn" type="submit" value="Search">
+
+			</form>
+
+		</div>
+
+	</body>
+</html>

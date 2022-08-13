@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>EDBF</title>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/result.css') }}">
+	</head>
+	<body>
+
+		<div class="login-box">
+			<h1>Email Data Breach Finder</h1>
+			<textarea readonly>{{ results }}</textarea>
+			<div style="float: right;">
+				<label style="display:inline-block;">Total: </label>
+				<label style="display:inline-block;">{{ total }}</label>
+			</div>
+		</div>
+
+
+	</body>
+</html>
