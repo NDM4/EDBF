@@ -1,8 +1,11 @@
 # EDBF
 Email data breach finder using myrz.org API.
 
+-----
+
+# Screenshots
 <p>
-<img src="https://cdn.discordapp.com/attachments/939091668261556304/991416492665098261/Capture_decran_2022-06-28_205449.jpg" width="1202", height="642">
+<img src="https://cdn.discordapp.com/attachments/973384585364774922/1008045935101751406/unknown_8.png">
 </p>
   
 -----
