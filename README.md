@@ -1,5 +1,5 @@
 <p>
-  <strong>EDBG</strong>
+  <h1>EDBG</h1>
 </p>
 Email data breach finder using myrz.org API.
 
