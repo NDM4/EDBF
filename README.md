@@ -6,7 +6,7 @@ Email data breach finder using myrz.org API.
 # Screenshots
 <p>
 <img src="https://cdn.discordapp.com/attachments/973384585364774922/1008045935101751406/unknown_8.png">
-<img src="https://cdn.discordapp.com/attachments/973384585364774922/1008046289725952060/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/973384585364774922/1008046428884566076/unknown_9.png">
 </p>
   
 -----
