@@ -11,7 +11,8 @@ Email data breach finder using myrz.org API.
   <img src="https://cdn.discordapp.com/attachments/973384585364774922/1008046428884566076/unknown_9.png">
 </p>
   
-
+# Contribute
+I know the code is a mess. Make a pull request if you want to contribute.
 
 # Disclaimer
 * ***With EDBF, you can check if your credentials have been exposed in a data breach***
