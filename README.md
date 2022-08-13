@@ -1,6 +1,9 @@
 <p>
-  <h1>EDBG</h1>
+  <h1>EDBF</h1>
 </p>
+
+-----
+
 Email data breach finder using myrz.org API.
 
 
@@ -12,7 +15,7 @@ Email data breach finder using myrz.org API.
   <img src="https://cdn.discordapp.com/attachments/973384585364774922/1008046428884566076/unknown_9.png">
 </p>
   
-
+-----
 
 # Disclaimer
 * ***With EDBF, you can check if your credentials have been exposed in a data breach***
